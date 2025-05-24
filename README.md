@@ -11,7 +11,7 @@
 - Well Architected Framework - [AWS Documentation](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
 	- Search by exam section you want to study!
 - Tiny Tech Tutorials - AWS Hands-On Projects, [YouTube Playlist](https://www.youtube.com/playlist?list=PLwyXYwu8kL0wMalR9iXJIPfiMYWNFWQzx)
-- AWS Cheat Sheets - [Tutorials Dojo](https://tutorialsdojo.com/aws-identity-and-access-management-iam/)
+- AWS Cheat Sheets - [Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 ## Paid ⭐
 🎓 Paid Courses: 
