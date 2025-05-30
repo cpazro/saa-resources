@@ -81,6 +81,8 @@ Outputs:
     Value: !GetAtt MyS3LoggingBucket.Arn
 ```
 ## EFS
+https://medium.com/@augustineozor/implementing-scalable-storage-solution-with-aws-efs-across-multiple-availability-zones-f470cc5ae4e0
+
 `aws ec2 create-security-group --group-name StorageLabs --description "SG for EFS storage"`
 
 `aws ec2 authorize-security-group-ingress --group-name StorageLabs --protocol tcp --port 22 --cidr 0.0.0.0/0`
